@@ -12,3 +12,8 @@ number_goats = 3
 weight = 190.0
 dog_weight = 49.6
 outside_temp = 94.3
+
+# Boolean
+tall = true
+hungry = true
+blonde_hair = false
